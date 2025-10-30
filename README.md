@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 ## Hey! I'm Gonçalo Sousa 👋<br><br>- 🎓 I’m currently studying **Medical Informatics Engineering** at university.<br>- 🌱 I’m learning and practicing **C, C#, Python, and SQL** , focusing on improving problem-solving and programming logic.<br>- 🤝 I’d like to collaborate on simple projects or study groups to learn with others.<br>- ❓ I’m looking for help with organizing projects better and with dev's network like discord groups.<br>- 💬 Feel free to ask me about my learning journey — I enjoy sharing what I pick up along the way.<br>- 🚴 **Fun fact:** I love cycling and I usually code while listening to music 🎧.<br><br>### 🚀 Tech Stack & Tools<br>- **Languages:** C • C# • Python • SQL<br>- **Tools:** Git • GitHub • Visual Studio Code • Visual Studio<br>
 
 
