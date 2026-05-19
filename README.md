@@ -9,7 +9,7 @@ Hey! I'm Gonçalo Sousa
 - Fun fact: I love cycling and I usually code while listening to music 🎧.
 
 Tech Stack & Tools
-- Languages: C • C# • Python • SQL • HTML • CSS
+- Languages: C • C# • Python • SQL • HTML • CSS • Javascript • Node.js
 - Tools: Git • GitHub • Visual Studio Code • Visual Studio
 
 
