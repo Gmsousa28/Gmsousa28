@@ -7,7 +7,7 @@ I'm Gonçalo Sousa
 
 Tech Stack & Tools
 - Languages: C • C# • Python • SQL • HTML • CSS • Javascript • Node.js
-- Tools: Git • GitHub • Visual Studio Code • Visual Studio
+- Tools: Git • GitHub • Visual Studio Code • Visual Studio • Virtualbox
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
