@@ -1,5 +1,4 @@
-About Me:
-Hey! I'm Gonçalo Sousa 
+I'm Gonçalo Sousa 
 
 - I’m currently studying Medical Informatics Engineering at university.
 - I’d like to collaborate on simple projects or study groups to learn with others.
